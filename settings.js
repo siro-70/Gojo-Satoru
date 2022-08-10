@@ -1,4 +1,4 @@
-//═══════════════════════════════════════════════════════//
+═══════════════════════════════════════════════════════//
 //
 //                              Eren-Bot
 //𝙰𝙳𝙾𝙿𝚃𝙴𝙳 𝙵𝚁𝙾𝙼  𝚂𝙲𝚁𝙸𝙿𝚃 𝙾𝙵 𝙲𝙷𝙴𝙴𝙼𝚂𝙱𝙾𝚃 𝚅2 𝙱𝚈 𝙳𝙶𝚇𝚎𝚘𝚗 
@@ -35,16 +35,16 @@ global.sessionName = 'session'
 global.prefa = ['','!','.','😙','💎','😩']
 global.sp = '⭔'
 global.mess = {
-    success: 'Done ✓',
-    admin: 'This Feature Is Only For Admin!',
-    botAdmin: 'Bot Must Be Admin First!',
-    owner: 'This Feature Is Only For Owner!',
-    group: 'Feature Used Only For Groups!',
-    private: 'Features Used Only For Private Chat!',
-    bot: 'This Feature Is Only For Bot',
-    wait: 'Wait A minute...',
-    error: 'Error! Maybe Api Key Is Expired🤔!',
-    endLimit: 'Your Daily Limit Has Expired, The Limit Will Be Reset Every 12 Hours',
+    success: 'تم ✓',
+    admin: 'هذه الميزة للمشرف فقط!',
+    botAdmin: 'يجب أن يكون البوت مسؤولاً أولاً! ',
+    owner: 'هذة الميزة لمالك البوت فقط! ',
+    group: 'هذة الميزة للمجموعات فقط! ',
+    private: 'هذة الميزة تستخدم في الخاص فقط! ',
+    bot:'هذة الميزة مخصصة للبوت فقط! ',
+    wait: 'انتظر لحظة ...',
+    error: 'خطأ! ربما انتهت صلاحية مفتاح Api🤔!',
+    endLimit: 'انتهت صلاحية الحد اليومي الخاص بك ، وسيتم إعادة تعيين الحد كل 12 ساعة',
 }
     global.limitawal = {
     premium: "Infinity",
